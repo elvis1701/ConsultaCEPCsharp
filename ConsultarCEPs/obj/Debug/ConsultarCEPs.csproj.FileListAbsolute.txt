@@ -1,0 +1,7 @@
+C:\Users\elvis\source\repos\ConsultarCEPs\ConsultarCEPs\bin\Debug\ConsultarCEPs.exe.config
+C:\Users\elvis\source\repos\ConsultarCEPs\ConsultarCEPs\bin\Debug\ConsultarCEPs.exe
+C:\Users\elvis\source\repos\ConsultarCEPs\ConsultarCEPs\bin\Debug\ConsultarCEPs.pdb
+C:\Users\elvis\source\repos\ConsultarCEPs\ConsultarCEPs\obj\Debug\ConsultarCEPs.csproj.AssemblyReference.cache
+C:\Users\elvis\source\repos\ConsultarCEPs\ConsultarCEPs\obj\Debug\ConsultarCEPs.csproj.CoreCompileInputs.cache
+C:\Users\elvis\source\repos\ConsultarCEPs\ConsultarCEPs\obj\Debug\ConsultarCEPs.exe
+C:\Users\elvis\source\repos\ConsultarCEPs\ConsultarCEPs\obj\Debug\ConsultarCEPs.pdb
